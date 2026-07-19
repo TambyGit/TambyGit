@@ -2,8 +2,10 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="image" align="right">
-  <img data-importer="image" height="180" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+  <img data-importer="image" height="120" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
 </div>
 
 ###
