@@ -2,11 +2,13 @@
 
 ###
 
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
 <br clear="both">
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="120" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
-</div>
+<img data-importer="image" align="right" height="120" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
 
 ###
 
@@ -52,19 +54,5 @@
   <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/sandratra-tamby-nandrianina-andrianjanoa-14a6963a1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/TambyGit/TambyGit/snake-output/snake.svg" alt="Snake animation" />
 
 ###
