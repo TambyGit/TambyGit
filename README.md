@@ -1,4 +1,8 @@
-<h1 data-importer="text" align="left">Hey 👋 I'm Tamby, What's up?</h1>
+<h1 data-importer="text" align="center">Hey 👋 I'm Tamby, What's up?</h1>
+
+###
+
+<p data-importer="text" align="left">This is Tamby, u'r little IT Student</p>
 
 ###
 
@@ -6,13 +10,11 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="120" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+<img data-importer="image" align="right" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc4Z3BnZGo0NmE3bXZ3OG56N3F4OWxoMGQ0N2hrMHBkazBka3pnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 
 ###
 
-<p data-importer="text" align="left">UI/UX Dev<br>I'm trying out the data, but it's in progress ⛃</p>
+<p data-importer="text" align="left">Turning coffee into clean code ☕<br>Building today, improving tomorrow.<br>UI/UX Dev<br>I'm trying out the data, but it's in progress ⛃</p>
 
 ###
 
@@ -46,11 +48,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
