@@ -69,9 +69,9 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=rose_pine&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/activity-graph-output/activity-graph.svg?radius=10&theme=redical&area=true&order=5&hide_border=false&hide_title=true" height="230" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="218" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=rose_pine&hide_border=false&order=2&custom_title=Languages" height="221" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/TambyGit/TambyGit/activity-graph-output/activity-graph.svg?radius=10&theme=redical&area=true&order=5&hide_border=false&hide_title=true" height="291" alt="activity-graph graph"  />
 </div>
 
 ###
