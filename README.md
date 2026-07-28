@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img data-importer="image" align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRkM3dzZjZyZGpvY2c5NzhxMGVqaDY5NWhxODQycTEwZng2aGJoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
